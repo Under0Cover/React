@@ -1,0 +1,4 @@
+.titulo {text-transform: uppercase; text-align: center; font-size: 30px;}
+.tituloNoticia {font-size: 26px; color: #4b199b; margin-top: 30px; padding-top: 50px;}
+.texto {text-align: justify; padding: 20px; font-size: 22px; background-color: #d1cdcd; color:indianred}
+.autor {float: right; font-weight: bolder; color: teal; font-size: 17px;}
